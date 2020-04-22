@@ -1,0 +1,10 @@
+AIzaSyCE_Oe9KTe5AmQvmoNzAKZ9Kjr19-VJDug
+
+sometimes open results card modal refresh the pageX
+tooltip on search results card modalX
+modal on long card page not showing correctlyX
+
+loading httprequest
+finish card layout deisgn and card logic,
+app icon
+tool bar
